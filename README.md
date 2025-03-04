@@ -12,3 +12,6 @@ Pneumonia Classification: Deep learning-based medical image classification using
 Gun Detection: A deep learning model for firearm detection.
 Multi-Class Image Classification: Using CNNs for classifying images into multiple categories.
 Transfer Learning: Applying pre-trained VGG16 for classification tasks.
+
+
+All the practicals are done using google colab and it can be seen in the uploaded PDF file.
