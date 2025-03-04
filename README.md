@@ -14,4 +14,4 @@ Multi-Class Image Classification: Using CNNs for classifying images into multipl
 Transfer Learning: Applying pre-trained VGG16 for classification tasks.
 
 
-All the practicals are done using google colab and it can be seen in the uploaded PDF file.
+All the practicals are done using google colab and it can be seen in the uploaded PDF file. Download the File and get a clear understanding of how each program works comprehensively.
